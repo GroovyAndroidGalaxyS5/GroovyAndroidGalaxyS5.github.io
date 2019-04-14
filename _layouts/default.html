@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+	{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/rom-groovy-android-t3921317" target="_blank">XDA Forum Thread</a></li>
+          <li class="downloads"><a href="https://groovyandroidgalaxys5.github.io/downloads">DOWNLOAD</a></li>
+          <li class="title">LATEST BUILDS</li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Groovy Android Galaxy S5</h1>
+          <p>Samsung Galaxy KLTE, KLTEDUOS, KLTEDV, KLTEKOR devices</p>
+			<div id="menu">
+	       	  <ul>
+				{% for item in site.data.menu.docs %}
+				<li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+				{% endfor %}
+			  </ul>
+          </div>
+          <hr>
+          <span class="credits left">Resurrecton Remix <a href="http://www.resurrectionremix.com/" target="_blank">resurrectionremix.com</a></span>
+          <span class="credits right">Thanks to all the <a href="credits">devs and teams</a></span>
+        </div>
+
+        {{ content }}
+
+      </section>
+
+    </div>
+  </body>
+</html>
+

@@ -1,0 +1,17 @@
+docs_list_title: Menu
+docs:
+
+- title: Home
+  url: ./
+
+- title: Changelog
+  url: changelog
+  
+- title: Downloads
+  url: downloads
+  
+- title: Installation
+  url: installation
+  
+- title: FAQ
+  url: faq
