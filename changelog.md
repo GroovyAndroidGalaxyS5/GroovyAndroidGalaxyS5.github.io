@@ -6,6 +6,29 @@ layout: default
 
 
 * * *
+### Build 2020-04-19
+* * *
+
+#### project build/
+*  Bump Security String to 2020-03-05
+
+#### project frameworks/base/
+*  Fixes NPE when preparing app data during init
+*  Handles null outInfo in deleteSystemPackageLI
+*  Fix security problem on PermissionMonitor#hasPermission
+*  RESTRICT AUTOMERGE Make toasts non-clickable
+*  DO NOT MERGE back porting for fixing sysui direct reply
+*  DO NOT MERGE: Disable SpellChecker in secondary user's direct reply 
+
+#### project frameworks/native/
+*  Don't leak input events to dumpsys on user builds
+*  Resize object capacity when shrinking Parcel
+
+#### project packages/apps/Settings
+*  Prevent accounts page directly opening in screen pinning mode
+
+
+* * *
 ### Build 20200203
 * * *
 
