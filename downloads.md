@@ -24,8 +24,8 @@ layout: default
 
 | File                                            | md5sum          | Size          |
 |:------------------------------------------------|:------------------|:------------------|
-| [GA-N-v7.1.2-20200419-klteduos-Release.zip](https://sourceforge.net/projects/groovy-android/files/klteduos/GA-N-v7.1.2-20200419-klteduos-Release.zip/download)           | de47395b0761de08e849edc44b6e1bd7 | 366.4 MB |
-| [GA-N-v7.1.2-20190412-klteduos-Release.zip](https://sourceforge.net/projects/groovy-android/files/klteduos/GA-N-v7.1.2-20190412-klteduos-Release.zip/download)           | 7912a34f9bcf1d9f97534582ea7cc0d2 | 374.4 MB |
+| [GA-N-v7.1.2-20200419-klteduos-Release.zip](https://sourceforge.net/projects/groovy-android/files/klteduos/GA-N-v7.1.2-20200419-klteduos-Release.zip/download)    | de47395b0761de08e849edc44b6e1bd7 | 366.4 MB |
+| [GA-N-v7.1.2-20190412-klteduos-Release.zip](https://sourceforge.net/projects/groovy-android/files/klteduos/GA-N-v7.1.2-20190412-klteduos-Release.zip/download)    | 7912a34f9bcf1d9f97534582ea7cc0d2 | 374.4 MB |
 
 * * *
 
