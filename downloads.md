@@ -12,6 +12,14 @@ layout: default
 
 ## S5 KLTE
 
+| File                                            | md5sum          | Size          |
+|:------------------------------------------------|:------------------|:------------------|
+| [GA-N-v7.1.2-20200419-klte-Release.zip](https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20200419-klte-Release.zip/download)           | dbcf8ac0b517086f4b71f4aa6448372c | 367.7 MB |
+| [GA-N-v7.1.2-20190412-klte-Release.zip](https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20190412-klte-Release.zip/download)           | a7df19d01543704d0066614db34ae380 | 375.7 MB |
+
+
+* * *
+
 | File                                            | Size              |
 |:------------------------------------------------|:------------------|
 | [GA-N-v7.1.2-20190412-klte-Release.zip](https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20190412-klte-Release.zip/download)           | 365.7 MB |
