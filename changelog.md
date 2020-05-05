@@ -4,6 +4,23 @@ layout: default
 
 # Changelog
 
+* * *
+### Build 2020-05-05
+* * *
+
+#### project build/
+*  Bump Security String to 2020-04-05
+
+#### project frameworks/base/
+*  Fix potential double destroy of AssetManager
+*  Revoke 'always' web handler status when not autoverifying
+
+#### project frameworks/native/
+*  Don't leak input events to dumpsys on user builds
+*  Resize object capacity when shrinking Parcel
+
+#### project packages/apps/Settings
+*  Prevent accounts page directly opening in screen pinning mode
 
 * * *
 ### Build 2020-04-19
